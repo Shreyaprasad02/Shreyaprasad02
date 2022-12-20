@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A Third Year IT Engineer from India.</h3>
 
+<img align = "right" alt = "gif" width="400" height="240" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaprasad02&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaprasad02" /> </p>
 
 - 🔭 I’m currently working on **Flutter**
