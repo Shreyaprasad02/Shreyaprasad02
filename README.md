@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- ⚡ Fun fact **I am trained in martial arts shotokon style🥋 and I love reading📚**
+- ⚡ Fun fact **I am trained in martial arts shotokon style🥋 and </br>I love reading📚**
 
 - 📫 Reach me here ➡️ **shreyaprasadaug@gmail.com**
 
