@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h1 align="center">Hi👋, I'm Shreya</h1>
 <h3 align="center">A Third Year IT Engineer from India.</h3>
 
 <img align = "right" alt = "gif" width="400" height="240" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- ⚡ Fun fact **I am trained in martial arts shotokon style🥋 and </br>I love reading📚**
+- ⚡ Fun fact **I am trained in martial arts shotokon style🥋**
 
 - 📫 Reach me here ➡️ **shreyaprasadaug@gmail.com**
 
