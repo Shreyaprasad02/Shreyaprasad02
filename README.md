@@ -51,7 +51,12 @@
 </br>
 </br> 
 </br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+
+</br> 
+</br>
+</br>
 ## Connect with me🤝:
 <p align="left">
 <a href="https://linkedin.com/in/shreya-prasad-ba94a4214" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="shreya prasad" height="30" width="40" /></a>
