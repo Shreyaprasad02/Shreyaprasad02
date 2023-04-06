@@ -1,5 +1,6 @@
-<h1 align="center">Hi👋, I'm Shreya</h1>
-<h3 align="center">A Third Year IT Engineer from India.</h3>
+<h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I'm <b>Shreya</b>, a Third Year IT Engineering student from India</h3>
+
 
 <img align = "right" alt = "gif" width="400" height="240" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
 
@@ -7,11 +8,9 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🌱 I’m currently learning **Linux**
-
-- ⚡ Fun fact **I am trained in martial arts shotokon style🥋**
+- 🌱 I’m currently pursuing **IT Engineering**
 
 - 📫 Reach me here ➡️ **shreyaprasadaug@gmail.com**
 
@@ -38,25 +37,19 @@
 </br>
 
 ## 📊 GitHub Stats:
-<p align="left"> 
+<p align="center"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaprasad02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shreyaprasad02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaprasad02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"" alt="shreyaprasad02" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaprasad02&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="shreyaprasad02" /></p>
-  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaprasad02&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="shreyaprasad02" /></p>
 </br> 
-</br>
-</br>  
-</br>
-</br> 
-</br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 </br> 
 </br>
-</br>
+  
 ## Connect with me🤝:
 <p align="left">
 <a href="https://linkedin.com/in/shreya-prasad-ba94a4214" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="shreya prasad" height="30" width="40" /></a>
