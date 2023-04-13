@@ -1,5 +1,5 @@
 <h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm <b>Shreya</b>, a Third Year IT Engineering student from India</h3>
+<h4 align="center">I'm <b>Shreya</b>, a Third Year IT Engineering student from India</h4>
 
 
 <img align = "right" alt = "gif" width="400" height="240" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
@@ -44,13 +44,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaprasad02&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="shreyaprasad02" /></p>
 </br> 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-</br> 
-</br>
   
-## Connect with me🤝:
+## 🤝 Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/shreya-prasad-ba94a4214" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="shreya prasad" height="30" width="40" /></a>
 <a href="mailto:shreyaprasadaug@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="shreya prasad" height="40" width="40" /></a>
