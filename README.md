@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🌱 I’m currently pursuing **IT Engineering**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 Reach me here ➡️ **shreyaprasadaug@gmail.com**
 
