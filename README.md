@@ -38,12 +38,10 @@
 
 ## 📊 GitHub Stats:
 
-<br/>
   <a href="https://github.com/shreyaprasad02/github-readme-stats"><img alt="Shreya Prasad' Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreyaprasad02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/shreyaprasad02/github-readme-stats"><img alt="Shreya Prasad' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprasad02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🔥 GitHub Streak:
-
 </br>
 <p align="center">
     <a href="https://github.com/shreyaprasad02/github-readme-streak-stats">
@@ -52,8 +50,9 @@
 </p>
 </br>
   
-## 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/shreya-prasad-ba94a4214" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="shreya prasad" height="30" width="40" /></a>
-<a href="mailto:shreyaprasadaug@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="shreya prasad" height="40" width="40" /></a>
+## 📫 Connect with me:
+<p align="center">
+<a target="_blank"href="https://linkedin.com/in/shreya-prasad-ba94a4214"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:shreyaprasadaug@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hashnode.com/@ShreyaPrasad"><img src="	https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
