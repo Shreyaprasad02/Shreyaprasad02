@@ -1,10 +1,10 @@
-<h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h4 align="center">I'm <b>Shreya</b>, a Third Year IT Engineering student from India</h4>
-
-
-<img align = "right" alt = "gif" width="400" height="240" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaprasad02&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaprasad02" /> </p>
+<h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I'm <b>Shreya</b>, a Third Year IT Engineering student from India</h3>
+
+## 🙋‍♀️ About me:
+
+<img align = "right" alt = "gif" width="400" height="230" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
 
 - 🔭 I’m currently working on **Problem Solving**
 
@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 Reach me here ➡️ **shreyaprasadaug@gmail.com**
-
 
 </br>
 
