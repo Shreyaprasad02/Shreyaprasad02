@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ About me:
 
-<img align = "right" alt = "gif" width="400" height="230" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
+<img align = "right" alt = "gif" width="400" height="220" src="https://github.com/Shreyaprasad02/Shreyaprasad02/blob/main/anna-havrylyukh-.gif">
 
 - 🔭 I’m currently working on **Problem Solving**
 
