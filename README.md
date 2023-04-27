@@ -38,16 +38,22 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaprasad02&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="shreyaprasad02" /></p>
+<br/>
+  <a href="https://github.com/shreyaprasad02/github-readme-stats"><img alt="Shreya Prasad' Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreyaprasad02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shreyaprasad02/github-readme-stats"><img alt="Shreya Prasad' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprasad02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<p align="left"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaprasad02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="shreyaprasad02" /></p>
+## 🔥 GitHub Streak:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaprasad02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"" alt="shreyaprasad02" /></p>
-</br>  
+</br>
+<p align="center">
+    <a href="https://github.com/shreyaprasad02/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shreya Prasad' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaprasad02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+</br>
   
 ## 🤝 Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/shreya-prasad-ba94a4214" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="shreya prasad" height="30" width="40" /></a>
 <a href="mailto:shreyaprasadaug@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="shreya prasad" height="40" width="40" /></a>
 </p>
