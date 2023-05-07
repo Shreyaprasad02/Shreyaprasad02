@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 👯 I’m looking to collaborate on **Open Source Projects & Hackathons**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🌱 I’m currently learning **Flutter**
 
