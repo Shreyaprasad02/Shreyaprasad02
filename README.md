@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **React Js**
 
 - 📫 Reach me here ➡️ **shreyaprasadaug@gmail.com**
 
